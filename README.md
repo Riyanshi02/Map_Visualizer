@@ -73,5 +73,4 @@ streamlit run main.py
 ## 👩‍💻 Author
 **Riyanshi**  
 B.Tech Computer Science Student 
-🔗 LinkedIn: Riyanshi_
 
